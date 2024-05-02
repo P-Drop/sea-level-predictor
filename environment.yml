@@ -1,0 +1,14 @@
+name: seaLevel
+channels:
+  - defaults
+dependencies:
+  - ipykernel
+  - ipython
+  - jupyter_client
+  - jupyter_core
+  - matplotlib
+  - numpy=1.20.3
+  - pandas=1.5.3
+  - python=3.8
+  - scipy=1.7.1
+prefix: C:\Users\pdful\.conda\envs\seaLevel
